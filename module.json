@@ -3,8 +3,8 @@
   "title": "Somno's Safety Tools",
   "description": "System-agnostic table safety tools for Foundry VTT. Provides player-facing safety card macros for ALL STOP, HAZARD PLAY, and INVOLVE ME, a GM-only Resume Play macro, private GM alerts, player card popups, automatic pause and resume handling, Resume Play chat posting, clean world macro installation for manual hotbar placement, and a startup journal that explains how to use the module. Each user can disable the startup journal from their own module settings.",
   "version": "0.5.0",
-  "manifest": "https://github.com/Somnoprivatio/Somnos-Safety-Tools/releases/latest/Download/module.json",
-  "Download": "https://github.com/Somnoprivatio/Somnos-Safety-Tools/releases/latest/Download/module.zip",
+  "manifest": "https://github.com/Somnoprivatio/Somnos-Safety-Tools/releases/latest/download/module.json",
+  "Download": "https://github.com/Somnoprivatio/Somnos-Safety-Tools/releases/latest/download/module.zip",
   "authors": [
     {
       "name": "SomnoPrivatio"
