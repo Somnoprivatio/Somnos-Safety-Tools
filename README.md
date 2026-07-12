@@ -62,7 +62,11 @@ This is a client-side setting, so it only affects the user who changes it.
 
 ## Install
 
-TBD
+1. Open **Foundry VTT Application** and Sign In as admin.
+2. Click **Add-on Modules**
+3. Click **Install Module**
+4. Paste the **Manifest URL** for your desired version into the designated spot at the bottom of the page.
+5. Click **Install**
 
 ## Notes
 
